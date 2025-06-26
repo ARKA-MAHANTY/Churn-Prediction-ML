@@ -1,5 +1,3 @@
-# Customer Churn Prediction (ML)
-
 **Predicts customer attrition using machine learning**  
 
 ## 🔍 Key Features  
